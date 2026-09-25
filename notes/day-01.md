@@ -1,0 +1,5 @@
+[ ] Write notes/day-01.md: in five sentences, explain blast radius using an example from your own workplace.
+
+# Day 1: Blast radius
+
+Blast radius is how much damage a credential could cause if it were lost, stolen, or misused, and it depends on how much access the credential holds, not on the task it's being used for. In a warehouse, supply vending machines might limit associates to a set number of gloves and safety items per week, while a manager's badge has unlimited access. When an associate loses their gloves after hitting their limit, it's tempting for a manager to lend them their badge so they can grab a new pair. But that badge doesn't only open the vending machine; it opens doors and areas across the facility the associate was never meant to reach, and anything done with it is recorded under the manager's name. A safer design gives the associate only what they need, like having the manager tap their own badge at the machine, so the powerful credential never leaves the manager's hand.
